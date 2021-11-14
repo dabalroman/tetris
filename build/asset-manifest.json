@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tetris/static/css/main.9f936568.chunk.css",
+    "main.js": "/tetris/static/js/main.78b0bbc2.chunk.js",
+    "main.js.map": "/tetris/static/js/main.78b0bbc2.chunk.js.map",
+    "runtime-main.js": "/tetris/static/js/runtime-main.976d8177.js",
+    "runtime-main.js.map": "/tetris/static/js/runtime-main.976d8177.js.map",
+    "static/js/2.9dab2317.chunk.js": "/tetris/static/js/2.9dab2317.chunk.js",
+    "static/js/2.9dab2317.chunk.js.map": "/tetris/static/js/2.9dab2317.chunk.js.map",
+    "index.html": "/tetris/index.html",
+    "static/css/main.9f936568.chunk.css.map": "/tetris/static/css/main.9f936568.chunk.css.map",
+    "static/js/2.9dab2317.chunk.js.LICENSE.txt": "/tetris/static/js/2.9dab2317.chunk.js.LICENSE.txt",
+    "static/media/font.5f45b521.ttf": "/tetris/static/media/font.5f45b521.ttf",
+    "static/media/gameOver.794caa1d.wav": "/tetris/static/media/gameOver.794caa1d.wav",
+    "static/media/groundKick.73a10bbd.wav": "/tetris/static/media/groundKick.73a10bbd.wav",
+    "static/media/levelUp.9e3f7cca.wav": "/tetris/static/media/levelUp.9e3f7cca.wav",
+    "static/media/lineClear.d12bd73d.wav": "/tetris/static/media/lineClear.d12bd73d.wav",
+    "static/media/moveBrick_old.bd640195.wav": "/tetris/static/media/moveBrick_old.bd640195.wav",
+    "static/media/tetris.5a7196b4.wav": "/tetris/static/media/tetris.5a7196b4.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.976d8177.js",
+    "static/js/2.9dab2317.chunk.js",
+    "static/css/main.9f936568.chunk.css",
+    "static/js/main.78b0bbc2.chunk.js"
+  ]
+}
